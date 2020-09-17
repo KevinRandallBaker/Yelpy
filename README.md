@@ -21,7 +21,7 @@ Yelpy is an app that allows users to browse food from the [The Yelp Database API
 ### App Walkthrough GIF
 
 
-<img src="Yhttp://g.recordit.co/ywVh1NaJkc.gif" width=250><br>
+<img src=http://g.recordit.co/ywVh1NaJkc.gif width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
